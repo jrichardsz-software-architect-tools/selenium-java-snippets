@@ -1,7 +1,7 @@
 # Selenium- Templates
 =================
 
-Useful templates of a browser automation framework and ecosystem. 
+Useful templates of a browser automation framework and ecosystem with selenium and java. 
 
 # Requirements
 
@@ -11,31 +11,14 @@ Useful templates of a browser automation framework and ecosystem.
 
 # Steps
 
-- Clone the repository
-
-# java-001-hello-world
-- Copy to a eclipse project and run it
-
-# testng-001-hello-world
-
-- cd to the **testng-001-hello-world** folder
-- execute:
-
-```
-mvn clean test
-```
+Every folder is a maven project, so just open them with your favourite IDE or try with a shell
 
 # References & Sources
 
-https://stackoverflow.com/questions/11896791/how-to-run-testng-from-command-line
-
-https://www.seleniumeasy.com/maven-tutorials/how-to-execute-selenium-webdriver-testng-xml-using-maven
-
-https://howtodoinjava.com/testng/how-to-execute-testng-tests-with-maven-build/
-
-https://examples.javacodegeeks.com/enterprise-java/testng/testng-maven-project-example/
-
-https://howtodoinjava.com/testng/how-to-execute-testng-tests-with-maven-build/
-
-> Hello World
-
+- https://stackoverflow.com/questions/11896791/how-to-run-testng-from-command-line
+- https://www.seleniumeasy.com/maven-tutorials/how-to-execute-selenium-webdriver-testng-xml-using-maven
+- https://howtodoinjava.com/testng/how-to-execute-testng-tests-with-maven-build/
+- https://examples.javacodegeeks.com/enterprise-java/testng/testng-maven-project-example/
+- https://howtodoinjava.com/testng/how-to-execute-testng-tests-with-maven-build/
+- https://superuser.com/questions/188058/which-ports-are-considered-unsafe-by-chrome
+- https://cosmocode.io/how-to-connect-selenium-to-an-existing-browser-that-was-opened-manually/
